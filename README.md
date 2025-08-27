@@ -1,2 +1,2 @@
-# hello-world
-Sample description 
+# My First Repo
+This is my first project on Github
